@@ -1,1 +1,4 @@
 # MyProjects
+```
+python app.py
+```
